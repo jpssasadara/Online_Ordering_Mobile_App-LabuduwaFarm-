@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "344506040374",
+    "firebase_url": "https://fmsapp-8e697.firebaseio.com",
+    "project_id": "fmsapp-8e697",
+    "storage_bucket": "fmsapp-8e697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344506040374:android:8afc9af113ecd740",
+        "android_client_info": {
+          "package_name": "com.example.suravi.fms1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344506040374-9o5vlq0ua4adbdnsf50ggtjl86c8o21a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeg_e6lVr9wQ3jGzNL97aU1EiQF4LAszU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

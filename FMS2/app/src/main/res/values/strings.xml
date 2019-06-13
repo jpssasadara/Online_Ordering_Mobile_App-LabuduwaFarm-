@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FMS1</string>
+
+    <string name="nameerror">Enter a valid Name </string>
+    <string name="emailerror">Enter a valid Email !</string>
+    <string name="unerror">Enter a valid Username !</string>
+    <string name="mobileerror">Enter a valid Mobile !</string>
+    <string name="nicerror">Enter a valid NIC !</string>
+    <string name="pwerror">Enter a valid Password at least 8 Character ! </string>
+    <string name="rpwerror">Re Entered password is Wrong ! </string>
+    <string name="adderror">Enter Address !</string>
+</resources>
